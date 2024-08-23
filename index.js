@@ -1,3 +1,5 @@
+// Este projeto foi desenvolvido com base no tutorial "How To Make A Music Player Using HTML CSS And JavaScript" de GreatStack no YouTube. 
+
 const progress = document.getElementById("progress");
 const song = document.getElementById("song");
 const ctrlIcon = document.getElementById("ctrlIcon");
